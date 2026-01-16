@@ -7,7 +7,7 @@ class Tanque:
         self.velocidad = 10
 
     def accion_especial(self):
-        return "🛡️ ¡DEFENSA TOTAL! El daño recibido se reduce al 0% en el próximo turno."
+        return "¡DEFENSA TOTAL! El daño recibido se reduce al 0% en el próximo turno."
 
 =======
 class Tanque:
@@ -18,7 +18,5 @@ class Tanque:
         self.velocidad = 10
 
     def accion_especial(self):
-        return "🛡️ ¡DEFENSA TOTAL! El daño recibido se reduce al 0% en el próximo turno."
-
->>>>>>> 6df2a64d037bcdbd33faa46f56d2b01b1096be22
+        return " ¡DEFENSA TOTAL! El daño recibido se reduce al 0% en el próximo turno."
 heroe_tanque = Tanque()
