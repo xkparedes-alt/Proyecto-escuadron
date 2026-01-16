@@ -36,9 +36,8 @@ class Sanador:
             return "[ERROR] Maná insuficiente para usar la habilidad."
 
 
-# -------------------------------
 # PROGRAMA PRINCIPAL
-# -------------------------------
+
 if __name__ == "__main__":
     sanador = Sanador()
 
